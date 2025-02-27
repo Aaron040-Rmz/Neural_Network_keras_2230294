@@ -1,4 +1,4 @@
-from Neural_networks_keras_2.src.keras_2 import train_image_detection_model
+from src.keras_2 import train_image_detection_model
 
 def main():
 
