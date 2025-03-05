@@ -1,7 +1,9 @@
 # 🧠 Red Neuronal con Keras 🧠
 
 **Estudiante**: Aarón Enrique Ramírez González  
+
 **Tarea 2**: Implementación de una red neuronal usando Keras para clasificación de imágenes.
+
 **Materia**: Sistemas de Visión Artificial  
 
 ---
@@ -118,4 +120,5 @@ El código realiza lo siguiente:
 
 ## 🙏 Agradecimientos
 ¡Gracias por visitar mi repositorio! 🎉
+
 Espero que este proyecto te sea útil, que tengas un muy buen día, Dios te bendiga 😊

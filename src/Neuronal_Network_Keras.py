@@ -17,7 +17,7 @@ def E_Red_neuronal():
 
     # Mostramos una de las imágenes de entrenamiento para ver cómo se ve
     plt.imshow(train_data_x[10])  # Mostramos la imagen en escala de grises
-    plt.title("Ejemplo de una imagen de entrenamiento")  # Le ponemos un título a la imagen
+    plt.title("Ejemplo de una Imagen de Entrenamiento")  # Le ponemos un título a la imagen
     plt.show()  # Mostramos la imagen en una ventana
 
     # Creamos la red neuronal
