@@ -1,10 +1,13 @@
-from src.keras_2 import train_image_detection_model
+from src.Neuronal_Network_Keras import E_Red_neuronal
+
 
 def main():
+    """
+    Función principal que inicia el entrenamiento de la red neuronal.
+    """
+    print("Iniciando el entrenamiento de la red neuronal...")
+    E_Red_neuronal()
 
-    model_image = train_image_detection_model()
-    print(model_image)
-    
-   
+# Punto de entrada del script
 if __name__ == "__main__":
     main()
